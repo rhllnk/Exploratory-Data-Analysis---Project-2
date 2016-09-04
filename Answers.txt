@@ -1,0 +1,17 @@
+Plot 1: From the graph we can see that there is decrease in emission levels from 1999 to 2008. There was steep decrease from 1999 to 2002 and from 2005 to 2008.
+        There was moderate decrease in emission between 2002 and 2005.
+		
+Plot 2: There is an overall decrease in emission from 1999 to 2008 for Baltimore. There was steep decrease from 1999 to 2002 and from 2005 to 2008.
+		There was increase in PM 2.5 emission from 2002 to 2005.
+		
+Plot 3: There was steep decrease in emission for Non-Point sources, gradual decrease for On-Road and Non-Road Sources. For Point Sources, there was 
+		increase in emission from 1999 to 2005 and then there was steep decrease in emission from 2005 to 2008.
+		
+Plot 4: There was steep decrease for Non-Point Sources. For Point sources, there was increase in emission till 2002, no notable change during 2002 - 2005 and 
+		then there was gradual decrease in emission from 2005 - 2008.
+		
+Plot 5: There was steep decrease in motor vehicle emission from 1999 - 2002 and moderate decrease from there after. There was steep decrease in emission overall.
+
+Plot 6: Overall emission levels of LA County are very high compared to that of Baltimore. For Baltimore city, there was gradual decrease in emission from 1999 - 2008.
+		For LA County, emission increased from 1999 to 2005 and decreased between 2005 - 2008.	
+		
